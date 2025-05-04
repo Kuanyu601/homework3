@@ -28,6 +28,18 @@ body {
     background-color: #f6f6f6;
     padding: 1.5rem;
     border-radius: 0 0 12px 12px;
+
+}
+.benefits strong{
+    font-weight: 900;
+    margin: 0 0 0 20px;
+    font-size: 1.1rem;
+}
+
+.benefits ul{
+    font-weight: 700;
+    margin: 0 0 0 20px;
+    font-size: 0.9rem;
 }
 
 
