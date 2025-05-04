@@ -1,0 +1,56 @@
+body {
+    background-color: #fff;
+    position: relative;
+}
+.container-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 30px 0;
+}
+.left, .right {
+    padding: 2rem;
+    border-radius: 12px;
+}
+.left {
+    background-color: #fff5cc;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+.left img {
+    width: 80%;
+    margin-bottom: 1rem;
+}
+.benefits {
+
+    background-color: #f6f6f6;
+    padding: 1.5rem;
+    border-radius: 0 0 12px 12px;
+}
+
+
+
+#i1{
+    font-weight: 1000;
+}
+
+.right {
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #007cc2;
+
+}
+.social-btn img {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+}
+
